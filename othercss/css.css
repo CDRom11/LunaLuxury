@@ -1,0 +1,49 @@
+body
+{
+	background-color:#D7FDF0;
+}
+
+.image {
+    height: 500px;
+    background-position: center;
+    background-size: cover;
+}
+
+.message {
+	vertical-align: top;
+}
+
+.formAlign {
+	margin: 0 auto;
+}
+
+.formLabel {
+	text-align: right;
+	float: left;
+}
+
+.formTextbox {
+	text-align: left;
+	float: right;
+}
+
+h3{
+	text-align:center;
+}
+
+.galleryimg{
+	height:315px;
+	width:100%;
+}
+
+.align-center{
+	text-align: center;
+}
+
+.missionStatement{
+	font-style: bold;
+}
+
+.errorMessage{
+	color: #ff0000;
+}
